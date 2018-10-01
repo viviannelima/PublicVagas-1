@@ -4,7 +4,7 @@
 
 Esse projeto possui 5 colaboradores:
 
-Gabriel Rodrigo
+Gabriel Rodrigo,
 Márcio Torres,
 Matheus Lopes,
 Tiago Borges e
